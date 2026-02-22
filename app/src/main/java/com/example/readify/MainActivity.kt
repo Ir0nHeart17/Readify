@@ -11,6 +11,8 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
+import androidx.navigation.compose.rememberNavController
+import com.example.readify.presentation.Navigation.NavGraph
 import com.example.readify.ui.theme.ReadifyTheme
 import dagger.hilt.android.AndroidEntryPoint
 
@@ -22,6 +24,11 @@ class MainActivity : ComponentActivity() {
         setContent {
             ReadifyTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
+
+                    val navHostController = rememberNavController()
+                    NavGraph(navHostController )
+
+
 
                 }
             }
