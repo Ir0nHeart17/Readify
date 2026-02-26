@@ -30,20 +30,15 @@ com.adarsh.readify
  <table style="width: 100%; border-collapse: collapse; border: none;">
   <tr>
     <td align="center" style="border: none;"><img src= "https://github.com/user-attachments/assets/2cf4cc46-b3e7-4e92-ae0d-d8e5923422c1"width="350px"/></td>
-    <td align="center" style="border: none;"><img src= "https://github.com/user-attachments/assets/dfbb3cbf-0635-4397-a4f9-ad3e64c448a1
-" width="350px"/></td>
+    <td align="center" style="border: none;"><img src= "https://github.com/user-attachments/assets/dfbb3cbf-0635-4397-a4f9-ad3e64c448a1"width="350px"/></td>
   </tr>
   <tr>
-    <td align="center" style="border: none;"><img src= "!https://github.com/user-attachments/assets/67a74caf-7ba3-440c-8e56-61687358441f
-" width="350px"/></td>
-    <td align="center" style="border: none;"><img src= "https://github.com/user-attachments/assets/15b8bbc4-c4af-4ce3-bae8-03f22131cb46
-" width="350px"/></td>
+    <td align="center" style="border: none;"><img src= "!https://github.com/user-attachments/assets/67a74caf-7ba3-440c-8e56-61687358441f" width="350px"/></td>
+    <td align="center" style="border: none;"><img src= "https://github.com/user-attachments/assets/15b8bbc4-c4af-4ce3-bae8-03f22131cb46" width="350px"/></td>
   </tr>
   <tr>
-    <td align="center" style="border: none;"><img src= "https://github.com/user-attachments/assets/05109804-b02a-445d-9144-0f7d012f7c74
-" width="350px"/></td>
-   <td colspan="2" align="center" style="border: none;"><img src= "https://github.com/user-attachments/assets/8f05bb87-2f23-444f-93f5-0bff1ba8871b
-" width="350px"/></td>
+    <td align="center" style="border: none;"><img src= "https://github.com/user-attachments/assets/05109804-b02a-445d-9144-0f7d012f7c74" width="350px"/></td>
+   <td colspan="2" align="center" style="border: none;"><img src= "https://github.com/user-attachments/assets/8f05bb87-2f23-444f-93f5-0bff1ba8871b" width="350px"/></td>
   </tr>
 </table>
 
