@@ -33,7 +33,7 @@ com.adarsh.readify
     <td align="center" style="border: none;"><img src= "https://github.com/user-attachments/assets/dfbb3cbf-0635-4397-a4f9-ad3e64c448a1"width="350px"/></td>
   </tr>
   <tr>
-    <td align="center" style="border: none;"><img src= "!https://github.com/user-attachments/assets/67a74caf-7ba3-440c-8e56-61687358441f" width="350px"/></td>
+    <td align="center" style="border: none;"><img src= "https://github.com/user-attachments/assets/67a74caf-7ba3-440c-8e56-61687358441f" width="350px"/></td>
     <td align="center" style="border: none;"><img src= "https://github.com/user-attachments/assets/15b8bbc4-c4af-4ce3-bae8-03f22131cb46" width="350px"/></td>
   </tr>
   <tr>
